@@ -16,7 +16,6 @@ This is the **frontend** for the **Contacts Management App**, providing a simple
 
 ---
 ## Project Structure
-
 832301327_contacts_frontend/
 ├─ src/                        # Source code directory
 │  ├─ index.html               # Main page
