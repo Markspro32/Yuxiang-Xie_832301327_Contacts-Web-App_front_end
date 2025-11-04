@@ -14,7 +14,7 @@ This is the **frontend** for the **Contacts Management App**, providing a simple
 - **Frontend URL:** `http://127.0.0.1:5500/Contacts_front_end/index.html`
 - **Backend Repository:** (Backend GitHub Link is here: )
 
----
+
 ## Project Structure
 832301327_contacts_frontend/
 ├─ src/                        # Source code directory
@@ -24,7 +24,7 @@ This is the **frontend** for the **Contacts Management App**, providing a simple
 ├─ README.md                   # Project guidance
 ├─ codestyle.md                # Coding standards
 └─ LICENSE                     # License file
----
+
 
 ## How to Run
 
