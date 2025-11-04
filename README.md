@@ -1,5 +1,4 @@
-# Yuxiang-Xie_832301327_Contacts-Web-App_front_end
-### Contacts Management Web APP----Frontend Part
+# Contacts Management Web App--Frontend
 
 This is the **frontend** for the **Contacts Management App**, providing a simple user interface to add, edit, delete, and view contacts. It connects to the Django backend API running on port **8000**.
 
