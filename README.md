@@ -1,7 +1,5 @@
 # Yuxiang-Xie_832301327_Contacts-Web-App_front_end
-This is the front-end repository of Web App: Contacts for Assignment 1, EE308
-
-# Contacts Management Web APP----Frontend Part
+### Contacts Management Web APP----Frontend Part
 
 This is the **frontend** for the **Contacts Management App**, providing a simple user interface to add, edit, delete, and view contacts. It connects to the Django backend API running on port **8000**.
 
