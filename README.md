@@ -17,14 +17,14 @@ This is the **frontend** for the **Contacts Management App**, providing a simple
 
 ## Project Structure
 
-832301327_contacts_frontend/
+'''832301327_contacts_frontend/
 ├── src/                 # Source code directory
 │   ├── index.html       # Main page
 │   ├── style.css        # Stylesheet
 │   └── script.js        # JavaScript logic for API calls and DOM updates
 ├── README.md            # Project guidance
 ├── codestyle.md         # Coding standards
-└── LICENSE              # License file
+└── LICENSE              # License file'''
 
 ## How to Run
 
