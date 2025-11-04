@@ -15,17 +15,15 @@ This is the **frontend** for the **Contacts Management App**, providing a simple
 - **Backend Repository:** (Backend GitHub Link is here: )
 
 ---
-
 ## Project Structure
 832301327_contacts_frontend/
-├─ src/
-│  ├─ index.html         # Main page
-│  ├─ style.css/               # Styles
-│  ├─ script.js/                # JavaScript logic for API calls and DOM updates
-│  └─ assets/            # Images and icons
-├─ README.md
-├─ codestyle.md
-└─ LICENSE
+└── src/                # Source code directory
+    └── index.html      # Main page
+    └── style.css       # style
+    └── script.js       # JavaScript logic for API calls and DOM updates
+└── README.md           # Projrect Guidance
+└── codestyle.md
+└── LICENSE
 ---
 
 ## How to Run
